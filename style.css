@@ -1,0 +1,33 @@
+
+.tombol{
+    background-color:chartreuse;
+}
+.tabel{
+    border-radius: 80px;
+    background-color:darkgray;
+    opacity: 0.8;
+    margin: 10px;
+    position:relative;
+    padding: 40px 30px;
+
+}
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("1564539.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:100vh;
+}
+
+.tabel caption{
+    font-size: 50px;
+    font-style: italic;
+}
+
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
